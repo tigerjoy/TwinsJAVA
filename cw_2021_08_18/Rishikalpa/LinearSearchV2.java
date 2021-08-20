@@ -18,6 +18,7 @@ class LinearSearchV2
     }
     System.out.println();
   }
+  // Tool - V2
   void linearSearch(int arr[],int key)
   {
     int pos=-1;
