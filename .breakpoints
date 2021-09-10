@@ -8,12 +8,52 @@
         "index": 446
       }
     ],
+    "cw_2021_08_18/Ridhima/LinearSearchV1.java": [
+      {
+        "id": "22e8b4f9-820c-4479-b589-35d0ef45876d",
+        "line": 49,
+        "version": 980,
+        "index": 1134
+      }
+    ],
     "hw_2021_08_11/Rishikalpa/ArrayProductOdd.java": [
       {
         "id": "74ec957d-14f5-48b8-b743-0ea755099b44",
-        "line": 29,
-        "version": 90,
-        "index": 698
+        "line": 30,
+        "version": 92,
+        "index": 719
+      }
+    ],
+    "hw_2021_08_18/Rishikalpa/DoubleArrayV2.java": [
+      {
+        "id": "e270b521-dfba-4a10-ba34-5608e9cefbb7",
+        "line": 46,
+        "version": 126,
+        "index": 1022
+      }
+    ],
+    "hw_2021_09_01/Ridhima/LinearSearchV2Short.java": [
+      {
+        "id": "5169bd3d-20ed-4733-92b6-811159535883",
+        "line": 39,
+        "version": 1,
+        "index": 814
+      }
+    ],
+    "hw_2021_09_01/compile_run.sh": [
+      {
+        "id": "06551b47-bb28-474f-96b5-4655476da807",
+        "line": 14,
+        "version": 1,
+        "index": 210
+      }
+    ],
+    "hw_2021_XX_XX/Rishikalpa/compile_run.sh": [
+      {
+        "id": "85bcdd9d-1b27-4772-956b-f16fab44920a",
+        "line": 14,
+        "version": 1,
+        "index": 210
       }
     ]
   }

@@ -1,3 +1,4 @@
+// Scored - 3 points
 import java.util.Scanner;
 class LargestSmallest
 {
@@ -55,6 +56,9 @@ class LargestSmallest
     int smallest= obj.smallest(arr);
     System.out.println("The smallest element of the array is: " + smallest);
     System.out.println("the difference between largest and smalllest number ");
+    // OBSERVATION #2
+    // What is the difference between the largest
+    // and the smallest number?
     obj.display(arr);
   }
 }

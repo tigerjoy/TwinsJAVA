@@ -1,3 +1,4 @@
+// Scored - 3 points
 import java.util.Scanner;
 class OddArray
 {
@@ -12,6 +13,10 @@ class OddArray
   }
   int countOdd (int arr[])
   {
+    // OBSERVATION #1
+    // Will this method correctly count the
+    // total number of odd numbers within the
+    // array?
     int count = 1;
     for(int i = 0; i <= arr.length - 1; i++)
     {

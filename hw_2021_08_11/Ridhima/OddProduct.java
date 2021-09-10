@@ -1,3 +1,4 @@
+// Scored - 3 points
 import java.util.Scanner;
 class OddProduct
 {
@@ -10,6 +11,9 @@ class OddProduct
             arr[i] = sc.nextInt();
         }
     }
+    // OBSERVATION #1
+    // Is this method really computing the product
+    // of odd elements of the array?
     int oddProduct(int arr[])
     {
         int product = 1;
