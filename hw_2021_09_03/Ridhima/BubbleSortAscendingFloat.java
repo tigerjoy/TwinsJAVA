@@ -1,3 +1,4 @@
+// Scored - 5 points
 import java.util.Scanner;
 class BubbleSortAscendingFloat
 {

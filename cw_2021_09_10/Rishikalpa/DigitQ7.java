@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class DigitQ7
 {
+  // Tool
   void printDigit(int num)
   {
     while(num!=0)

@@ -67,7 +67,7 @@ class BinarySortSearchDescendingChar
     System.out.print("Enter the element to be searched: ");
     char key = sc.nextLine().charAt(0);
     obj.bubbleSort(arr);
-    sc.nextLine();
+    // sc.nextLine();
     int pos = obj.binarySearch(arr, key);
     if(pos == -1)
     {

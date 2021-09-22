@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class SumOfDigitsQ9
 {
+  // Tool
   int sumOfDigit(int num)
   {
     int sum=0;
